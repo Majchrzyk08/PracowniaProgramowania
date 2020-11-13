@@ -7,6 +7,7 @@ namespace Pracownia_Programowania___Basic_CRM
 {
     public class Class
     {
+        //kod z chromea
         //kod z przegladarki
         //siemaneczko
         //jestem tuuuuu
