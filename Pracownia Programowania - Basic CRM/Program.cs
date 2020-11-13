@@ -13,6 +13,7 @@ namespace Pracownia_Programowania___Basic_CRM
     {
         public static void Main(string[] args)
         {
+            //comment
             CreateHostBuilder(args).Build().Run();
         }
 
