@@ -9,5 +9,7 @@ namespace Pracownia_Programowania___Basic_CRM
     {
 
         //siemaneczko
+        //jestem tuuuuu
     }
+
 }
